@@ -1,0 +1,8 @@
+order_id,order_date,customer_id,customer_name,product_id,product_name,quantity,unit_price,source_system
+O1001,2026-08-01,C001,Alice Smith,P001,Wireless Keyboard,2,25.50,web
+O1002,2026-08-01,C002,David Jones,P002,USB-C Dock,1,79.99,mobile
+O1003,2026-08-02,C001,Alice Smith,P003,Monitor Stand,1,45.00,web
+O1004,2026-08-02,C003,Meera Patel,P001,Wireless Keyboard,3,25.50,partner
+O1005,2026-08-03,C004,John Lee,P004,Laptop Sleeve,0,19.99,web
+O1006,2026-08-03,C005,Sara Khan,P005,Webcam,1,59.00,mobile
+O1006,2026-08-03,C005,Sara Khan,P005,Webcam,1,59.00,mobile
